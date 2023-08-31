@@ -1,0 +1,3 @@
+D:/ProjectIT/C/LoadMemory/cmake-build-debug/CMakeFiles/LoadMemory.dir
+D:/ProjectIT/C/LoadMemory/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/ProjectIT/C/LoadMemory/cmake-build-debug/CMakeFiles/rebuild_cache.dir
